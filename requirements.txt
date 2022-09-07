@@ -1,5 +1,5 @@
 matplotlib==3.3.4
-numpy==1.19.5
+numpy==1.22.0
 open3d==0.14.1
 pandas==1.1.5
 Pillow==8.4.0
